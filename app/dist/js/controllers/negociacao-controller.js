@@ -1,4 +1,4 @@
-import { DiasDaSemana } from '../enums/dias_da_semana.js';
+import { DiasDaSemana } from './enums/dias_da_semana.js';
 import { Negociacao } from '../models/negociacao.js';
 import { Negociacoes } from '../models/negociacoes.js';
 import { MensagemView } from '../views/mensagem-view.js';
